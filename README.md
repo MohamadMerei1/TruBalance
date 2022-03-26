@@ -16,7 +16,7 @@ This repository contains the Arduino and GUI codes used in the TurBalance BMS.
 
 The user of this system must confirm the hardware connection before uploading any code to the Linduino board. The hardware connections from linduino to the other boards must be confirmed with the schmatic design provided above, pictures of the current colored wires (utilized by the TruBalance Team) are also provided. 
 
-- Arduino Setup:
+ - Arduino Setup:
    
       - [Download and install the Arduino IDE (Recommended Version 1.8 or Later).](https://www.arduino.cc/en/software) 
       - [Download the Arduino Libraries from the folder above.](https://github.com/MohamadMerei1/TruBalance/tree/main/Arduino_Libraries)
@@ -51,7 +51,7 @@ The user of this system must confirm the hardware connection before uploading an
             3. Your OS may not have the correct USB driver, search online for the correct one
             4. Try a difference OS
         
-If these steps were followed carfully the linduino board should now contain the program needed for runnning the system. 
+If these steps were followed carfully the linduino board should now contain the program needed for runnning the system. The user should be able to see the data being scanned by the serial mointor. The data is recieved as specified by the read squence, a picture of the current data reading sequence is provided above. 
 
 # Processing
 
