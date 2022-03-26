@@ -36,6 +36,7 @@ This repository contains the Arduino and GUI codes used in the TurBalance BMS.
         <p align="right">
         <img src="images/Capture1.PNG">
         </p>
+      - Other libraries may be required to be installed, you can always do so by locating the Library Manager Button under tools and searching for the needed library (This is unlikely with the current code 03/26/2022). 
 
 
 # Processing
