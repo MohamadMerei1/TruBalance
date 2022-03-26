@@ -64,7 +64,7 @@ If these steps were followed carfully the linduino board should now contain the 
 The user must confirm that the data being scanned by the serial mointor matches the read sequence above before running the processing GUI code.
   
 
- - Processing Setup:
+ - **Processing Setup:**
    
       - [Download Proocessing (Recommended Version 4.0 or later).](https://processing.org/download) 
       - Download the following libraries in Processing from: `Sketch > Import Library > Add Library` 
@@ -82,13 +82,13 @@ Now, you should be able to see the values and functionalities of the system in t
         <p align="right">
         <img src="images/GUI.png">
         </p>
- - GUI features:  
+ - **GUI features:**  
   
                 1. The GUI provides conntinuous measurnments of the TruBalance BMS including: bank voltages, temperatures, state of charge, current, power , energy boards dignoisis values, and Fault codes.   
                 2. The GUI also provides manual control of the discharge function of the TruBalance system, this feature allows triggering discharge of any bank in the battery pack, clearing discharge will clear all discharge registers of the system. 
                 
   
- - Troubleshooting errors and GUI freezing issues:
+ - **Troubleshooting errors and GUI freezing issues:**
   
                 1. Restart processing  
                 2. Make sure that the serial mointor of Arduino is not open (This will cause conflict on the serial port and the GUI will freeze)  
