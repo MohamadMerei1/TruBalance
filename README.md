@@ -1,5 +1,5 @@
 # TruBalance
-This repository contains the Arduino code/libraries and the GUI code used in the TurBalance BMS.
+This repository contains the Arduino GUI codes used in the TurBalance BMS.
 
 
 
