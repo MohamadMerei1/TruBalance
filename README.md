@@ -14,6 +14,6 @@ This repository contains the Arduino and GUI codes used in the TurBalance BMS.
 The arduino code and libraries utilized in this project are based on a modified version
 of the sketches provided by Analog Devcies. 
 
-<p align="right">
+<p align="left">
   <img src="images/analogDevices.png">
 </p>
