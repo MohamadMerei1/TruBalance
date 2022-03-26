@@ -14,8 +14,9 @@ This repository contains the Arduino and GUI codes used in the TurBalance BMS.
 <img src="images/arduino.png" width="150" height="100">
 </p>
 
+The user of this system must confirm the hardware connection before uploading any code to the Linduino board. The hardware connections from linduino to the other boards must be confirmed with the schmatic design provided above, pictures of the current colored wires (utilized by the TruBalance Team) are also provided. 
 
-  - Arduino Setup:
+- Arduino Setup:
    
       - [Download and install the Arduino IDE (Recommended Version 1.8 or Later).](https://www.arduino.cc/en/software) 
       - [Download the Arduino Libraries from the folder above.](https://github.com/MohamadMerei1/TruBalance/tree/main/Arduino_Libraries)
@@ -50,7 +51,7 @@ This repository contains the Arduino and GUI codes used in the TurBalance BMS.
             3. Your OS may not have the correct USB driver, search online for the correct one
             4. Try a difference OS
         
-If these steps were followed carfully the linduino board should now contain the program needed for runnning the system, the hardware connections from linduino to the other boards must be confirmed with the schmatic design above provided above, a pictures of the current colored wires (by TruBalance Team) are also provided. 
+If these steps were followed carfully the linduino board should now contain the program needed for runnning the system. 
 
 # Processing
 
