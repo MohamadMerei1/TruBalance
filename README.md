@@ -51,8 +51,10 @@ The user of this system must confirm the hardware connection before uploading an
             3. Your OS may not have the correct USB driver, search online for the correct one
             4. Try a difference OS
         
-If these steps were followed carfully the linduino board should now contain the program needed for runnning the system. The user should be able to see the data being scanned by the serial mointor. The data is recieved as specified by the read squence, a picture of the current data reading sequence is provided above. 
-
+If these steps were followed carfully the linduino board should now contain the program needed for runnning the system. The user should be able to see the data being scanned by the serial mointor. The data is recieved as specified by the read squence shown below: 
+        <p align="right">
+        <img src="images/Data Communication Sequence.png">
+        </p>
 # Processing
 
 <p align="center">
