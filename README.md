@@ -11,5 +11,3 @@ The arduino code and libraries utilized in this project are based on a modified 
 
 ![](images/analogDevices.png)
 
-❮img src="images/analogDevices.png" ❯
-❮img src="images/analogDevices.png" width="100" ❯
