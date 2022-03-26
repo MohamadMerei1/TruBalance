@@ -18,7 +18,7 @@ This repository contains the Arduino and GUI codes used in the TurBalance BMS.
 The user of this system must confirm the hardware connection before uploading any code to the Linduino board. This could be done with the schmatic design provided above, pictures of the current colored wires (utilized by the TruBalance Team) are also provided. 
   
 
- - Arduino Setup:
+ - **Arduino Setup:**
    
       - [Download and install the Arduino IDE (Recommended Version 1.8 or Later).](https://www.arduino.cc/en/software) 
       - [Download the Arduino Libraries from the folder above.](https://github.com/MohamadMerei1/TruBalance/tree/main/Arduino_Libraries)
