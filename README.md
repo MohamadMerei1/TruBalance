@@ -27,7 +27,7 @@ This repository contains the Arduino and GUI codes used in the TurBalance BMS.
 <img src="images/Untitled drawing.png">
 </p>
       - Place the folders from: 
-      `~\Arduino\LinduinoSketchbook2949\libraries\`.
+      `C:\Users\moham\Documents\Arduino\LinduinoSketchbook2949\libraries\`.
 
 
 # Processing
