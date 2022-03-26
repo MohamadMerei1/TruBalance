@@ -1,7 +1,7 @@
 # TruBalance BMS
 
 
-This repository contains the Arduino and GUI codes used in the TurBalance BMS.
+This repository contains the Arduino and GUI codes used in the **TurBalance BMS**.
 
 <p align="Center">
 <img src="images/logo.JPG">
@@ -100,7 +100,7 @@ Now, you should be able to see the values and functionalities of the system in t
 # Credit
 
 The arduino code and libraries utilized in this project are based on a modified version
-of the sketches provided by Analog Devcies. 
+of the sketches provided by **Analog Devcies**. 
 
 <p align="center">
   <img src="images/analogDevices.png">
