@@ -2,6 +2,9 @@
 
 This repository contains the Arduino and GUI codes used in the TurBalance BMS.
 
+<p align="left">
+<img src="images/logo.png" width="150" height="100">
+</p>
 
 # Arduino
 
