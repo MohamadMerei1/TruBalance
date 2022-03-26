@@ -36,7 +36,19 @@ This repository contains the Arduino and GUI codes used in the TurBalance BMS.
         <p align="right">
         <img src="images/Capture1.PNG">
         </p>
-      - Other libraries may be required to be installed, you can always do so by locating the Library Manager Button under tools and searching for the needed library (This is unlikely). 
+      - Other libraries may be required to be installed, you can always do so by locating the Library Manager Button under tools and searching for the needed library (This is unlikely).
+      - Once all libraries are installed, Restart the Arduino IDE
+      - Locate Board button under Tools and choose Arduino UNO
+      - Make sure your USB is connected to a Linduino 
+      - Choose the correct port under Tools
+      - Download the sketch from Arduino Code folder above and Upload it to the Linduino Board 
+      - If no errors appear in the console window, this would mean the linduino board was programmed successfully
+      - Some steps to Troubleshooting errors:  
+      
+            1. Restart Arduino IDE
+            2. Make sure libraries are located as explained above
+            3. Your OS may not have the correct USB driver, search online for the correct one
+            4. Try a difference OS
 
 
 # Processing
