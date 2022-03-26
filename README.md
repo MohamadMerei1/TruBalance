@@ -21,15 +21,13 @@ The user of this system must confirm the hardware connection before uploading an
       - [Download and install the Arduino IDE (Recommended Version 1.8 or Later).](https://www.arduino.cc/en/software) 
       - [Download the Arduino Libraries from the folder above.](https://github.com/MohamadMerei1/TruBalance/tree/main/Arduino_Libraries)
       - Unzip the LinduinoSketch folder.
-      - Locate the Arduino libraries folder:
-      `C:\Users\moham\Documents\Arduino\`
+      - Locate the Arduino libraries folder:`C:\Users\moham\Documents\Arduino\`
       - Place the downloaded libraries inside the Arduino folder from the path above, where  
         the folder will look like the following:
         <p align="right">
         <img src="images/Untitled drawing.png">
         </p>
-      - Place the `ltcmuc_tools` and `ltcmuc_tools_ext` folders from: 
-      `~\Arduino\LinduinoSketchbook2949\libraries\`, in:  
+      - Place the `ltcmuc_tools` and `ltcmuc_tools_ext` folders from: `~\Arduino\LinduinoSketchbook2949\libraries\`, in:  
       `~\Arduino\LTSketchbook\libraries`
       - Start the Arduino IDE
       - Go into Preferences under File
