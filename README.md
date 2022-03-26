@@ -49,7 +49,8 @@ This repository contains the Arduino and GUI codes used in the TurBalance BMS.
             2. Make sure libraries are located as explained above
             3. Your OS may not have the correct USB driver, search online for the correct one
             4. Try a difference OS
-
+        
+If these steps were followed carfully the linduino board should now contain the program needed for runnning the system, the hardware connections from linduino to the other boards must be confirmed with the schmatic design above provided above, a pictures of the current colored wires (by TruBalance Team) are also provided. 
 
 # Processing
 
