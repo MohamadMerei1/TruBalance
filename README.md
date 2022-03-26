@@ -61,15 +61,17 @@ If these steps were followed carfully the linduino board should now contain the 
 <img src="images/processing.png" width="200height="150
 </p>
 
-The user must confirm that the data scanned by hte serial mointor matches the read sequence above before running the processing GUI code
+The user must confirm that the data being scanned by the serial mointor matches the read sequence above before running the processing GUI code.
   
 
  - Processing Setup:
    
-      - [Download and install the Arduino IDE (Recommended Version 1.8 or Later).](https://www.arduino.cc/en/software) 
-      - [Download the Arduino Libraries from the folder above.](https://github.com/MohamadMerei1/TruBalance/tree/main/Arduino_Libraries)
-      - Unzip the LinduinoSketch folder.
-      - Locate the Arduino libraries folder:`C:\Users\moham\Documents\Arduino\`
+      - [Download Proocessing (Recommended Version 4.0 or later).](https://processing.org/download) 
+      - Download the following Libraries in Processing from: `Sketch > Import Library > Add Library`
+             -
+      - Download the Processing GUI folder above
+      - Run Processing 
+  
  
  
 # Credit
