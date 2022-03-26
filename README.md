@@ -69,8 +69,8 @@ The user must confirm that the data being scanned by the serial mointor matches 
       - [Download Proocessing (Recommended Version 4.0 or later).](https://processing.org/download) 
       - Download the following libraries in Processing from: `Sketch > Import Library > Add Library` 
   
-                1. javafx  
-                2. Serial  
+                1. **javafx** 
+                2. **Serial**  
                 3. Sound  
                 4. controlP5
   
