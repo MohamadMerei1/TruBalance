@@ -17,7 +17,7 @@ This repository contains the Arduino and GUI codes used in the TurBalance BMS.
 
   - Arduino Setup:
    
-      - [Download and install the Arduino IDE](https://www.arduino.cc/en/software)
+      - [Download and install the Arduino IDE](https://www.arduino.cc/en/software) (Recommended Version 1.8 or Later)
       -
       -
       - 
