@@ -53,7 +53,7 @@ The user of this system must confirm the hardware connection before uploading an
         
 If these steps were followed carfully the linduino board should now contain the program needed for runnning the system. The user should be able to see the data being scanned by the serial mointor. The data is recieved as specified by the read squence shown below: 
         <p align="right">
-        <img src="images/Data Communication Sequence.png">
+        <img src="images/Data Communication Sequence .png">
         </p>
 # Processing
 
