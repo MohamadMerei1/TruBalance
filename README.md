@@ -23,7 +23,7 @@ This repository contains the Arduino and GUI codes used in the TurBalance BMS.
       - Locate the Arduino libraries folder:
       `C:\Users\moham\Documents\Arduino\`
       - Place the downloaded libraries inside the Arduino folder from the path above, the folder will look like the following:
-<p align="Center">
+<p align="right">
 <img src="images/Untitled drawing.png">
 </p>
 
