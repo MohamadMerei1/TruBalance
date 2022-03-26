@@ -22,14 +22,13 @@ This repository contains the Arduino and GUI codes used in the TurBalance BMS.
       - Unzip the LinduinoSketch folder.
       - Locate the Arduino libraries folder:
       `C:\Users\moham\Documents\Arduino\`
-      - Place the downloaded libraries inside the Arduino folder from the path above, the folder will look like the following:
-<p align="right">
-<img src="images/Untitled drawing.png">
-</p>
-   -
-      - Locate the Arduino libraries folder:
-        - Place the folders from: 
-      `~\Arduino\LinduinoSketchbook2949\libraries\`.
+      - Place the downloaded libraries inside the Arduino folder from the path above,  
+      where the folder will look like the following:
+        <p align="right">
+        <img src="images/Untitled drawing.png">
+        </p>
+      - Place the `ltcmuc_tools` and `ltcmuc_tools_ext` folders from: 
+      `~\Arduino\LinduinoSketchbook2949\libraries\`, and place them in: `~\Arduino\LTSketchbook\libraries`
 
 
 # Processing
