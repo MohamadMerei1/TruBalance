@@ -15,7 +15,7 @@ This repository contains the Arduino and GUI codes used in the **TruBalance BMS*
 </p>
   
 
-The user of this system must confirm the hardware connection before uploading any code to the Linduino board. This could be done with the schematic design provided above, pictures of the current colored wires (utilized by the TruBalance Team) are also provided. 
+The user of this system must confirm the hardware connections before uploading any code to the Linduino board. This could be done with the schematic design provided above, pictures of the current colored wires (utilized by the TruBalance Team) are also provided. 
   
 
  - **Arduino Setup:**
