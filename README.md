@@ -15,5 +15,5 @@ The arduino code and libraries utilized in this project are based on a modified 
 of the sketches provided by Analog Devcies. 
 
 <p align="right">
-  <img src="images/analogDevices.png" width="150" height="100">
+  <img src="images/analogDevices.png">
 </p>
