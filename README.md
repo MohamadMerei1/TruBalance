@@ -1,6 +1,5 @@
 # TruBalance BMS
 
-<span style="font-family: 'Baumans';">TruBalance</span>
 
 This repository contains the Arduino and GUI codes used in the TurBalance BMS.
 
