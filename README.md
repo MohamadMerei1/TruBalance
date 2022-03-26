@@ -16,7 +16,7 @@ This repository contains the Arduino and GUI codes used in the TurBalance BMS.
 # Processing
 
 <p align="right">
-<img src="images/processing.png">
+<img src="images/processing.png" width="200height="150
 </p>
 
 
