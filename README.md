@@ -14,7 +14,7 @@ This repository contains the Arduino and GUI codes used in the TurBalance BMS.
 <img src="images/arduino.png" width="150" height="100">
 </p>
 
-  1. Setup the Arduino libraries:
+  - Setup the Arduino libraries:
       - 
       -
       -
