@@ -3,7 +3,7 @@
 This repository contains the Arduino and GUI codes used in the TurBalance BMS.
 
 
-# Arduino Setup
+# Arduino
 
 <p align="right">
 <img src="images/arduino.png" width="150" height="100">
