@@ -13,8 +13,10 @@ This repository contains the Arduino and GUI codes used in the TurBalance BMS.
 <p align="center">
 <img src="images/arduino.png" width="150" height="100">
 </p>
+  
 
 The user of this system must confirm the hardware connection before uploading any code to the Linduino board. This could be done with the schmatic design provided above, pictures of the current colored wires (utilized by the TruBalance Team) are also provided. 
+  
 
  - Arduino Setup:
    
@@ -59,7 +61,17 @@ If these steps were followed carfully the linduino board should now contain the 
 <img src="images/processing.png" width="200height="150
 </p>
 
+The user must confirm that the data scanned by hte serial mointor matches the read sequence above before running the processing GUI code
+  
 
+ - Processing Setup:
+   
+      - [Download and install the Arduino IDE (Recommended Version 1.8 or Later).](https://www.arduino.cc/en/software) 
+      - [Download the Arduino Libraries from the folder above.](https://github.com/MohamadMerei1/TruBalance/tree/main/Arduino_Libraries)
+      - Unzip the LinduinoSketch folder.
+      - Locate the Arduino libraries folder:`C:\Users\moham\Documents\Arduino\`
+ 
+ 
 # Credit
 
 The arduino code and libraries utilized in this project are based on a modified version
