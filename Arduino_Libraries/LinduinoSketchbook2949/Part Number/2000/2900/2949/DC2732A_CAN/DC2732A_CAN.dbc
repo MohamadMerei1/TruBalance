@@ -1,0 +1,150 @@
+VERSION ""
+
+
+BS_:
+
+BU_:
+
+
+BO_ 272 IP1V: 8 Vector__XXX
+ SG_ BAT : 55|16@0- (0.000375,0) [-12.288|12.2876] "V" Vector__XXX
+ SG_ P1 : 31|24@0- (5.8368,0) [-4.89626e+007|4.89626e+007] "uV2" Vector__XXX
+ SG_ I1 : 7|24@0- (0.95,0) [-7.96918e+006|7.96918e+006] "uV" Vector__XXX
+
+BO_ 287 CFG2949: 8 Vector__XXX
+ SG_ ACC : 46|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ FAST_MEAS_PERIOD : 56|8@1+ (1,0) [0|255] "ms" Vector__XXX
+ SG_ MEAS_PERIOD : 48|8@1+ (100,0) [0|25500] "ms" Vector__XXX
+ SG_ NTC2_TYPE : 44|2@1+ (1,0) [0|3] "" Vector__XXX
+ SG_ NTC1_TYPE : 42|2@1+ (1,0) [0|3] "" Vector__XXX
+ SG_ MEAS_VREF : 41|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ MEAS_VCC : 40|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ MEAS_TEMP : 39|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ MEAS_BAT : 38|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ MEAS_SLOT2 : 37|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ MEAS_SLOT1 : 36|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ MEAS_P2 : 35|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ MEAS_P1 : 34|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ MEAS_I2 : 33|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ MEAS_I1 : 32|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ SLOTFN : 28|4@1+ (1,0) [0|15] "" Vector__XXX
+ SG_ SLOTFP : 24|4@1+ (1,0) [0|15] "" Vector__XXX
+ SG_ SLOT2N : 20|4@1+ (1,0) [0|15] "" Vector__XXX
+ SG_ SLOT2P : 16|4@1+ (1,0) [0|15] "" Vector__XXX
+ SG_ SLOT1N : 12|4@1+ (1,0) [0|15] "" Vector__XXX
+ SG_ SLOT1P : 8|4@1+ (1,0) [0|15] "" Vector__XXX
+ SG_ P2ASV : 7|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ P1ASV : 6|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ SLOT2NTC : 5|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ MEAS_ENABLE : 47|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ SLOT1NTC : 4|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ FCONT : 3|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ AUXFAST : 2|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ CH2FAST : 1|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ CH1FAST : 0|1@1- (1,0) [0|1] "" Vector__XXX
+
+BO_ 273 IP2T: 8 Vector__XXX
+ SG_ TEMP : 55|16@0- (0.2,0) [-6553.6|6553.4] "°C" Vector__XXX
+ SG_ P2 : 31|24@0- (5.8368,0) [-4.89626e+007|4.89626e+007] "uV2" Vector__XXX
+ SG_ I2 : 7|24@0- (0.95,0) [-7.96918e+006|7.96918e+006] "uV" Vector__XXX
+
+BO_ 274 SVR: 8 Vector__XXX
+ SG_ VCC : 55|16@0- (0.00226,0) [-74.0557|74.0534] "V" Vector__XXX
+ SG_ VREF : 39|16@0- (0.000375,0) [-12.288|12.2876] "V" Vector__XXX
+ SG_ SLOT2 : 23|16@0- (0.000375,0) [-12.288|12.2876] "V" Vector__XXX
+ SG_ SLOT1 : 7|16@0- (0.000375,0) [-12.288|12.2876] "V" Vector__XXX
+
+BO_ 275 SLOTSNTC: 4 Vector__XXX
+ SG_ NTC2 : 23|16@0- (0.2,0) [-6553.6|6553.4] "°C" Vector__XXX
+ SG_ NTC1 : 7|16@0- (0.2,0) [-6553.6|6553.4] "°C" Vector__XXX
+
+BO_ 286 ERR: 1 Vector__XXX
+ SG_ CODE : 0|8@1+ (1,0) [0|255] "" Vector__XXX
+
+BO_ 285 FASTRQ: 3 Vector__XXX
+ SG_ FAST_MEAS_PERIOD : 16|8@1+ (1,0) [0|255] "ms" Vector__XXX
+ SG_ SAMPLES : 7|16@0+ (1,0) [0|65535] "" Vector__XXX
+
+BO_ 284 FSSHT: 8 Vector__XXX
+ SG_ AUX : 48|16@1- (0.375183,0) [-12294|12293.6] "mV" Vector__XXX
+ SG_ BAT : 32|16@1- (0.375183,0) [-12294|12293.6] "mV" Vector__XXX
+ SG_ I2 : 16|16@1- (7.60371,0) [-249158|249151] "uV" Vector__XXX
+ SG_ I1 : 0|16@1- (7.60371,0) [-249158|249151] "uV" Vector__XXX
+
+BO_ 280 FIFOI1: 8 Vector__XXX
+ SG_ S3 : 48|16@1- (7.60371,0) [-249158|249151] "uV" Vector__XXX
+ SG_ S2 : 32|16@1- (7.60371,0) [-249158|249151] "uV" Vector__XXX
+ SG_ S1 : 16|16@1- (7.60371,0) [-249158|249151] "uV" Vector__XXX
+ SG_ S0 : 0|16@1- (7.60371,0) [-249158|249151] "uV" Vector__XXX
+
+BO_ 281 FIFOI2: 8 Vector__XXX
+ SG_ S3 : 48|16@1- (7.60371,0) [-249158|249151] "uV" Vector__XXX
+ SG_ S2 : 32|16@1- (7.60371,0) [-249158|249151] "uV" Vector__XXX
+ SG_ S1 : 16|16@1- (7.60371,0) [-249158|249151] "uV" Vector__XXX
+ SG_ S0 : 0|16@1- (7.60371,0) [-249158|249151] "uV" Vector__XXX
+
+BO_ 282 FIFOBAT: 8 Vector__XXX
+ SG_ S3 : 48|16@1- (0.375183,0) [-12294|12293.6] "mV" Vector__XXX
+ SG_ S2 : 32|16@1- (0.375183,0) [-12294|12293.6] "mV" Vector__XXX
+ SG_ S1 : 16|16@1- (0.375183,0) [-12294|12293.6] "mV" Vector__XXX
+ SG_ S0 : 0|16@1- (0.375183,0) [-12294|12293.6] "mV" Vector__XXX
+
+BO_ 283 FIFOAUX: 8 Vector__XXX
+ SG_ S3 : 48|16@1- (0.375183,0) [-12294|12293.6] "mV" Vector__XXX
+ SG_ S2 : 32|16@1- (0.375183,0) [-12294|12293.6] "mV" Vector__XXX
+ SG_ S1 : 16|16@1- (0.375183,0) [-12294|12293.6] "mV" Vector__XXX
+ SG_ S0 : 0|16@1- (0.375183,0) [-12294|12293.6] "mV" Vector__XXX
+
+BO_ 276 PASV: 6 Vector__XXX
+ SG_ P2V : 31|24@0- (0.046875,0) [-393216|393216] "mV" Vector__XXX
+ SG_ P1V : 7|24@0- (0.046875,0) [-393216|393216] "mV" Vector__XXX
+
+BO_ 279 RAWRW: 8 Vector__XXX
+ SG_ CONTDOWN : 6|6@0+ (1,0) [0|40] "" Vector__XXX
+ SG_ D5 : 63|8@0+ (1,0) [0|255] "" Vector__XXX
+ SG_ D4 : 55|8@0+ (1,0) [0|255] "" Vector__XXX
+ SG_ D3 : 47|8@0+ (1,0) [0|255] "" Vector__XXX
+ SG_ D2 : 39|8@0+ (1,0) [0|255] "" Vector__XXX
+ SG_ D1 : 31|8@0+ (1,0) [0|255] "" Vector__XXX
+ SG_ D0 : 23|8@0+ (1,0) [0|255] "" Vector__XXX
+ SG_ ADDR : 0|9@0+ (1,0) [0|511] "" Vector__XXX
+ SG_ WRITE : 7|1@0- (1,0) [0|1] "" Vector__XXX
+
+BO_ 288 FIFOI1AVG: 6 Vector__XXX
+ SG_ LEN : 32|16@1+ (1,0) [0|65535] "" Vector__XXX
+ SG_ I1AVG : 0|32@1- (7.4255,0) [-1.59461e+010|1.59461e+010] "nV" Vector__XXX
+
+BO_ 289 FIFOI2AVG: 6 Vector__XXX
+ SG_ LEN : 32|16@1+ (1,0) [0|65535] "" Vector__XXX
+ SG_ I2AVG : 0|32@1- (7.4255,0) [-1.59461e+010|1.59461e+010] "nV" Vector__XXX
+
+BO_ 290 FIFOBATAVG: 6 Vector__XXX
+ SG_ LEN : 32|16@1+ (1,0) [0|65535] "" Vector__XXX
+ SG_ BATAVG : 0|32@1- (0.36639,0) [-7.86817e+008|7.86817e+008] "uV" Vector__XXX
+
+BO_ 291 FIFOAUXAVG: 6 Vector__XXX
+ SG_ LEN : 32|16@1+ (1,0) [0|65535] "" Vector__XXX
+ SG_ AUXAVG : 0|32@1- (0.36639,0) [-7.86817e+008|7.86817e+008] "uV" Vector__XXX
+
+BO_ 292 FSSHTMA: 8 Vector__XXX
+ SG_ I2 : 32|16@1- (7.60371,0) [-249158|249151] "uV" Vector__XXX
+ SG_ I2MA : 0|32@1- (7.4255,0) [-1.59461e+010|1.59461e+010] "nV" Vector__XXX
+
+BO_ 293 ACC_C1: 6 Vector__XXX
+ SG_ C1 : 7|48@0- (0.377887,0) [-5.31829e+013|5.31829e+013] "uVms" Vector__XXX
+
+BO_ 294 ACC_E1: 6 Vector__XXX
+ SG_ E1 : 7|48@0- (2.32175,0) [-3.26757e+014|3.26757e+014] "uVVms" Vector__XXX
+
+BO_ 295 ACC_TB1: 4 Vector__XXX
+ SG_ TB1 : 7|32@0- (0.397777,0) [-8.5422e+008|8.5422e+008] "ms" Vector__XXX
+
+
+
+ VAL_ 279 CONTDOWN 46875 "Final message with data to be written,0" ;
+ VAL_ 279 WRITE 0 "Read Message,0" 0 "Write message,1" ;
+ VAL_ 288 I1AVG 7483648 "LSB = LSB_FIFOI1 / 1024,0" ;
+ VAL_ 289 I2AVG 7483648 "LSB = LSB_FIFOI2 / 1024,0" ;
+ VAL_ 290 BATAVG 7483648 "LSB = LSB_FIFOAUX / 1024,0" ;
+ VAL_ 291 AUXAVG 7483648 "LSB = LSB_FIFOAUX / 1024,0" ;
+
