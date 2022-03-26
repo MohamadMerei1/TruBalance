@@ -79,8 +79,8 @@ The user must confirm that the data being scanned by the serial monitor matches 
       - Inside the GUI screen, press connect to start the continuous loop of the system
   
 Now, you should be able to see the values and functionalities of the system in the GUI screen. Below is an example of a fully functional TruBalance GUI:
-        <p align="right">
-        <img src="images/GUI.JPG">
+        <p align="center">
+        <img src="images/gui.JPG">
         </p>
  - **GUI features:**  
   
