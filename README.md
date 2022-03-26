@@ -80,7 +80,7 @@ The user must confirm that the data being scanned by the serial monitor matches 
   
 Now, you should be able to see the values and functionalities of the system in the GUI screen. Below is an example of a fully functional TruBalance GUI:
         <p align="right">
-        <img src="images/GUI.png">
+        <img src="images/GUI.jpg">
         </p>
  - **GUI features:**  
   
