@@ -1,6 +1,6 @@
 # TruBalance BMS
 
-<span style="font-family: 'Lucida Console';">foo</span>
+<span style="font-family: 'Lucida Console';">TruBalance</span>
 
 This repository contains the Arduino and GUI codes used in the TurBalance BMS.
 
